@@ -9,7 +9,7 @@ A recent graduate from Makers Academy (March 2022 Cohort) - a bootcamp which all
 ## Projects
 | Name                         | Description       | Tech/tools        | Additional Info |
 | ---------------------------- | ----------------- | ----------------- | --------------- |
-| [EdUp](https://github.com/jmcnally17/EdUp) | Improving communication between Schools and Parents  | MongoDB, Express, React, NodeJS | [Final group project at Makers](https://youtu.be/MnX0ePaLG-I?t=181)
+| [EdUp](https://github.com/jmcnally17/EdUp) | Improving communication between Schools and Parents  | MongoDB, Express, React, NodeJS | [Final group project at Makers]
 | [notEd](https://github.com/mcsuGH/notEdApp) | Keep notes and track events  | MongoDB, Express, React, NodeJS |Solo project for consolidation |
 | [Acebook](https://github.com/jmcnally17/acebook-zark-muckerberg) | Clone of Facebook | MongoDB, Express, Handlebars, NodeJS |Second group project at Makers |
 | [MakersBnB](https://github.com/monenavarro/makers_bnb) | Clone of AirBnB | PSQL, Ruby, Sinatra |First group project at Makers |
