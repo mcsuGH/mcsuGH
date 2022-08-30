@@ -1,7 +1,7 @@
 # Michael Su
 ## Junior Software Developer
 [![Github CV](https://img.shields.io/badge/GitHub%20CV-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcsuGH/CV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/mcsuGH/CV)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/mcsuGH/CV) -->
 
 A recent graduate from Makers Academy (March 2022 Cohort) - a bootcamp which allowed me to grow from an aspiring developer who knew very little about coding in to a more competent developer, who now realises there is still much to learn about coding. Thanks to the course, I have built a solid foundation in software development, developed good practices in programming and have experienced working in different tech stacks with different teams whilst working with agile processes.
 
